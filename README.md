@@ -1,0 +1,1 @@
+# Persamaan-Regresi-Parsial-HDL
